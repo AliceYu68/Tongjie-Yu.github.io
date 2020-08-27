@@ -82,9 +82,11 @@ analytics:
 author:
   name             : "Tongjie Yu"
   avatar           : "tongjieyu.jpg"
-  bio              : "MBA concentrating on marketing and business"
-  location         : "11290 Spitfire Rd, San Diego, CA 92126"
-  employer         : "Tasty Noodle House INC, JAY TEA HOUSE INC, A Bowl INC"
+  bio              : 
+                     Master of Business Administration <br> 
+                     Alliant International University
+  location         : "San Diego, California, U.S.A."
+  employer         : "A Bowl INC"
   pubmed           : 
   googlescholar    : 
   email            : "tyu@alliant.edu"
