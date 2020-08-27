@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tongjie Yu / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tongjie Yu"
 description              : &description "personal career homepage"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tongjie Yu"
-  avatar           : "tongjieyu.jpg"
+  avatar           : "profile.png"
   bio              : 
                      Master of Business Administration <br> 
                      Alliant International University
