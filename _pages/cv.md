@@ -38,10 +38,10 @@ Skills
 
 Languages
 ======
-  * English
-  * Chinese
-  * Cantonese
+* English
+* Chinese
+* Cantonese
   
 Other
 ======
-* Driving License -- C 
+* Driving License - C 
