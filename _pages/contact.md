@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Feel free to reach me out and unlock brilliant **[San Diego](https://goo.gl/maps/vLdF1tvRFvhTSfho8)**!
+Feel free to contact me and touch amazing **[San Diego](https://goo.gl/maps/vLdF1tvRFvhTSfho8)**!
 
 <p align="center">
   <img src="https://zhuonan-hao.github.io/images/UCSD.jpg?raw=true" alt="Photo" style="width:800px;"/>
