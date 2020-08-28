@@ -5,7 +5,14 @@ permalink: /contact/
 author_profile: true
 ---
 
-<image> form https://github.com/AliceYu68/tongjie-yu.github.io/tree/master/images of WechatIMG479.jpeg
+Feel free to reach me out and unlock brilliant San Diego!
+
+<p align="center">
+  <img src="https://AliceYu68/tongjie-yu.github.io/images/WechatIMG479.jpeg?raw=true" alt="Photo" style="width:800px;"/>
+</p>
+<p align="center">
+ M.B.A. of Alliant International University
+</p>
 
 
 Shipping: 10455 Pomerado Rd, San Diego, CA 92131 <br>
