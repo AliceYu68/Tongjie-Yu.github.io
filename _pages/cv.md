@@ -25,9 +25,6 @@ Skills
 ======
 * Proficient in Office Software
 * Verbal & Written Communication
-  * English
-  * Chinese
-  * Cantonese
 * Network Techniques
 * Operations Administration
 * Data Analysis
@@ -38,3 +35,13 @@ Skills
 * Business Strategy
 * Market Analysis
 * Business Communication Skills  
+
+Languages
+======
+  * English
+  * Chinese
+  * Cantonese
+  
+Other
+======
+* Driving License -- C 
