@@ -5,7 +5,6 @@ permalink: /careers/
 author_profile: true
 ---
 
-Work experience
 ======
 * Mar. - Aug. 2020: Accont Manager - A BOWL INC - San Diego
   * Assisted owners to manage operations of the company and various functional departments and coordinated internal relations of various departments
