@@ -4,8 +4,8 @@ permalink: /honors/
 author_profile: true
 ---
 
-* Scholarship <br>
-   ** Granted student scholarship During 2016 - 2017  ** <br>
+* Scholarship 
+   ** Granted student scholarship During 2016 - 2017  ** 
 
 * Excellent Staff <br>
    ** Voted as a good employee many times when working in A Bowl INC and Jay Tea House INC  ** <br>
