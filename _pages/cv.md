@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download](https://drive.google.com/file/d/1xxzIvxkICJ6rAnf2wP2JG0Ati4UgNhZJ/view?usp=sharing)
+[Download](https://drive.google.com/drive/my-drive)
 
 Education and training
 ======
