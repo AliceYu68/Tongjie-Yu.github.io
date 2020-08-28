@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download](https://ongjie-yu.github.io/files/Tongjie_CV.pdf)
+[Download](https://drive.google.com/file/d/1xxzIvxkICJ6rAnf2wP2JG0Ati4UgNhZJ/view?usp=sharing)
 
 Education and training
 ======
