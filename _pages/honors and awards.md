@@ -24,4 +24,4 @@ author_profile: true
   * Granted student scholarship During 2016 - 2017
   
 **Bonus** <br>
-  * Got awards as "Best employee" During 2017 - 2018 and 2020 
+  * Got awards as "Best employee" During 2017 - 2018 and 2020 - 2021
