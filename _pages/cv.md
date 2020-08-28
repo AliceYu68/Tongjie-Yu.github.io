@@ -38,9 +38,9 @@ Skills
 
 Languages
 ======
-* English
-* Chinese
-* Cantonese
+* English (Advanced)
+* Chinese (Native Language)
+* Cantonese (Beginnger)
   
 Other
 ======
