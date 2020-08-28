@@ -17,9 +17,9 @@ Education and training
 
 Work experience
 ======
-* Mar. - Aug. 2020: Accont Manager - A Bowl INC
-* Nov. 2017 - Nov. 2018: Assistant Manager - Jay Tea House INC
-* Nov. 2017 - Nov. 2018: Supervisor - Tasty Noodle House INC  
+* Accont Manager: Mar. - Aug. 2020 - A Bowl INC
+* Assistant Manager: Nov. 2017 - Nov. 2018 - Jay Tea House INC
+* Supervisor: Nov. 2017 - Nov. 2018 - Tasty Noodle House INC  
   
 Skills
 ======
