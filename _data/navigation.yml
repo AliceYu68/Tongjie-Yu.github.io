@@ -1,13 +1,14 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /cv/
+    
   - title: "Careers"
     url: /careers/
 
   - title: "Honors and Awards"
     url: /honors and awards/    
-    
-  - title: "CV"
-    url: /cv/
     
   - title: "Contact"
     url: /contact/
