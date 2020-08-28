@@ -1,5 +1,5 @@
 ---
-title: "Honors and awards"
+title: "Honors and Awards"
 permalink: /honors and awards/
 author_profile: true
 ---
