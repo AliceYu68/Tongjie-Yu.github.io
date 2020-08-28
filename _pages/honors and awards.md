@@ -1,6 +1,6 @@
 ---
-title: "Honors and Rewards"
-permalink: /honors and rewards/
+title: "Honors and awards"
+permalink: /honors and awards/
 author_profile: true
 ---
 
@@ -18,8 +18,10 @@ author_profile: true
    * Project Management <br>
    * Strategic Management <br>
 
-**Award**
+**Awards**
 
 **Scholarship** <br>
   * Granted student scholarship During 2016 - 2017
+  
+**Bonus** <br>
   * Got awards as "Best employee" During 2017 - 2018 and 2020 
