@@ -5,7 +5,6 @@ permalink: /careers/
 author_profile: true
 ---
 
-======
 * Mar. - Aug. 2020: Accont Manager - A BOWL INC - San Diego
   * Assisted owners to manage operations of the company and various functional departments and coordinated internal relations of various departments
   * Communicated potential opportunities in the market to clients and review business results with shareholders via regular meetings
