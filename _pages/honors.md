@@ -4,7 +4,7 @@ permalink: /honors/
 author_profile: true
 ---
 
-* Scholarship 
+* Scholarship <br>
    **Granted student scholarship During 2016 - 2017** 
 
 * Excellent Staff <br>
