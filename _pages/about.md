@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the [Master of Business Administration](https://www.alliant.edu/business/business-administration/mba) in [Alliant International University](https://www.alliant.edu/), concentrating on marketing and business. I had almost one year of experience as an account manager with a master's degree in the company and one-year 1-month experiences on internship. I am organized, personable, and action-oriented with a strong ability to communicate efficiently.
+I am a graduate student in the [Master of Business Administration](https://www.alliant.edu/business/business-administration/mba) in [Alliant International University](https://www.alliant.edu/), concentrating on marketing and business. I had almost one year of experience as an account manager with a master's degree in the company and one-year 1-month experiences on internship. I am organized, personable, and action-oriented with a strong capability of efficient communication.
 
 Career overview
 ======
