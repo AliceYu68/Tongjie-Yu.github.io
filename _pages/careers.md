@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Careers - Catering Executive"
+title: "Careers"
 permalink: /careers/
 author_profile: true
 ---
