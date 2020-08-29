@@ -4,8 +4,6 @@ permalink: /honors and awards/
 author_profile: true
 ---
 
-**Honors**
-
 **Excellent Staff** <br>
    * Voted as a good employee many times when working in A Bowl INC and Jay Tea House INC <br>
 
@@ -17,8 +15,6 @@ author_profile: true
    * Operations Management and Logistics <br>
    * Project Management <br>
    * Strategic Management <br>
-
-**Awards**
 
 **Scholarship** <br>
   * Granted student scholarship During 2016 - 2017
