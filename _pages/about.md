@@ -16,6 +16,14 @@ Career overview
 * Assistant manager in Jay Tea House, INC
 * Supervisor in Tasty Noodle House, INC
 
+Current Income
+======
+*  $43,000 / Year
+
+Perspective Careers
+======
+* Banking / Catering / Internet Business
+
 Social Practice
 ======
 * 2019/3/6- APA Writing Workshop
