@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Empty Truck"
+excerpt: "Development of a new App for distribution and logistics
+ services by a startup company.<br/><img src='https://github.com/AliceYu68/tongjie-yu.github.io/blob/master/images/WechatIMG312.jpeg'>"
 collection: portfolio
 ---
 
