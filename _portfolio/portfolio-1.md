@@ -1,7 +1,7 @@
 ---
 title: "Empty Truck"
 excerpt: "[Development of a new App for distribution and logistics
- services by a startup company](https://aliceyu68.github.io/tongjie-yu.github.io/files/PMI6010_Project_Empty_Trucks_Tongjie_Yu.pdf)
+ services by a startup company](https://aliceyu68.github.io/tongjie-yu.github.io/files/PMI6010_Project_Empty_Trucks_Tongjie_Yu.pdf)"
 collection: portfolio
 ---
 
