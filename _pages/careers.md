@@ -23,3 +23,7 @@ author_profile: true
   * Managed the profits and loss and other related financial aspects for the center ensuring optimal facility operations
   * Developed new customer development strategies to capture market channels and increase client penetration
   * Provided investment strategy and developmental advisory service to external partners and assisted internal executives with project optimization
+<p align="center">
+  <img src="https://aliceyu68.github.io/tongjie-yu.github.io/images/WechatIMG481.jpeg?raw=true" alt="Photo" style="width:600px;"/>
+</p>
+<p align="center">
