@@ -8,7 +8,7 @@ author_profile: true
 Feel free to contact me and touch amazing **[San Diego](https://goo.gl/maps/vLdF1tvRFvhTSfho8)**!
 
 <p align="center">
-  <img src="https://aliceyu68.github.io/tongjie-yu.github.io/images/WechatIMG499.jpeg?raw=true" alt="Photo" style="width:600px;"/>
+  <img src="https://github.com/AliceYu68/tongjie-yu.github.io/blob/master/images/WechatIMG499.jpeg?raw=true" alt="Photo" style="width:600px;"/>
 </p>
 <p align="center">
  The sea has, not just a color, it is a kind of spirit, is the life. 
