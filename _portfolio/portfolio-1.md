@@ -1,8 +1,9 @@
 ---
 title: "Empty Truck"
 excerpt: "Development of a new App for distribution and logistics
- services by a startup company.<br/><img src='https://github.com/AliceYu68/tongjie-yu.github.io/blob/master/images/WechatIMG312.jpeg'>"
+ services by a startup company.<br/><img src='https://github.com/AliceYu68/tongjie-yu.github.io/blob/master/files/PMI%206010_Project%20Empty%20Trucks_Tongjie%20Yu.pdf'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<i class='fas fa-calendar-alt'></i> Time: Aug. 2019 -- Oct, 2019  <br>
+<i class='fas fa-address-book'></i> Advisor: [Prof. Janine Heiberger](https://www.linkedin.com/in/janine-heiberger-mba-pmp-a703471/)
