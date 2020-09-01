@@ -5,7 +5,9 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<p align="center">
-  <img src="https://aliceyu68.github.io/tongjie-yu.github.io/_portfolio/WechatIMG488.jpeg?raw=true" alt="Photo" style="width:600px;"/>
-</p>
-<p align="center">
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
