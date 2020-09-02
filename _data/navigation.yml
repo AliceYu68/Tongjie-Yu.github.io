@@ -13,5 +13,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     
+  - title: "Course Project"
+    url: /course project/
+    
   - title: "Contact"
     url: /contact/
