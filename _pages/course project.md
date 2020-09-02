@@ -40,5 +40,5 @@ Core course list
 | January Term 2019 | FIN 6000 - Financial And Accounting Management (#) | Pete Wyndham   |A |
 | January Term 2019 | IST 6010 - Technology For Managerial Decision Making (#) | John McCready   | A<sup>- |
 | March Term 2019 | MGT 6000 - Operations Management And Logistics (#) | Janine Heiberger   |A |
-|  July Term 2019 | MKT 6036 - Marketing Research And Data Analytics (#) | Mohammad Hasan Galib   |A |  
-|  August / Aeptember Term 2019 | PMI - 6010 - Project Management (#) |  Janine Heiberger  |A |  
+| July Term 2019 | MKT 6036 - Marketing Research And Data Analytics (#) | Mohammad Hasan Galib   |A |  
+| August / Aeptember Term 2019 | PMI - 6010 - Project Management (#) |  Janine Heiberger  |A |  
