@@ -32,7 +32,6 @@ Core course list
 
 | Term | Subject course | Instructor | Grade |
 | :----: | :----: | :----: | :----: |
-
 | Spring 2019 | BUS 6020 - Strategic Management (#) | Doyle W. Young | A | 
 | Spring 2019 | BUS 6090 - Statistical Analysis And Modeling For Business  (#) | Aaron Wester | A |
 | Spring 2019 | BUS 6060 - Organizational Behavior And Global Leadership (#) | Kasia Fuiks |A |
