@@ -17,7 +17,7 @@ author_profile: true
    * Strategic Management <br>
 
 **Scholarship** <br>
-  * Granted student scholarship During 2016 - 2017
+  * Granted student scholarship 
   
 **Bonus** <br>
-  * Got awards as "Best employee" During 2017 - 2018 and 2020 - 2021
+  * Got awards as "Best employee" 
