@@ -13,6 +13,7 @@ redirect_from:
 Education and training
 ======
 * Master of Business Administration - Alliant Internatinal University - Jan. 2019 - Mar. 2020
+* Bachelor of Business Administration - Alliant Internatinal University - Aug. 2015 - Oct. 2017
 * Leaders of Learning - HarvardX - Apr. 2020
 
 Work experience
