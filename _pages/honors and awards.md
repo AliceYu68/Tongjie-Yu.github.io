@@ -17,7 +17,7 @@ author_profile: true
    * Strategic Management <br>
 
 **Scholarship** <br>
-  * Granted student scholarship of “ASM 2+1 Merit Scholarship Financial Aid ” 
+  * Granted student scholarship of “ASM 2+1 Merit Scholarship ” 
   
 **Bonus** <br>
   * Got awards as "Best employee" 
