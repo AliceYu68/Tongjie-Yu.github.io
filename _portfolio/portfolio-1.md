@@ -1,5 +1,5 @@
 ---
-title: "Empty Truck"
+title: "Space Reuse of Empty Truck"
 excerpt: "Development of a new App for distribution and logistics services by a startup company"
 collection: portfolio
 ---
