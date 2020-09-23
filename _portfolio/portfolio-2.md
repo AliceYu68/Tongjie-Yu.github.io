@@ -1,6 +1,6 @@
 ---
 title: "Research Paper of Durex"
-excerpt: "The Relationship Between Product Packaging and Customer Behavior to Buy of Durex"
+excerpt: "The Relationship Between Product Packaging and Customer Behavior When Purchase the Durex"
 collection: portfolio
 ---
 
