@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Empty Truck
+## Space Reuse of Empty Truck
 
 *Alliant International University, Aug. - Oct. 2019*  
 *Course*: PMI 6010 - Project Management 
