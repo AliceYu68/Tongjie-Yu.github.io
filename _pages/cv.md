@@ -34,18 +34,18 @@ Social Service
   
 Skills
 ======
-* Proficient in Office Software
-* Verbal & Written Communication
-* Network Techniques
-* Operations Administration
+* Photoshop
 * Data Analysis
-* Strategy Research \& Analysis
-* Administration Skills
-* Supply Chain Management
-* Strategy Risk Assessment 
-* Business Strategy
+* Website Design
 * Market Analysis
+* Business Strategy
+* Administration Skills
+* Operations Administration
+* Strategy Risk Assessment 
+* Proficient in Office Software
+* Strategy Research \& Analysis
 * Business Communication Skills  
+* Verbal & Written Communication
 
 Languages
 ======
