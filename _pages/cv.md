@@ -20,8 +20,8 @@ Education and training
 
 Work experience
 ======
-* Market Researcher: Sep. 2020 - Until Now - C-LOOP TEC. (Beijing, Remote Office Work)
-* Operation Supervisor: Mar. - Dec. 2020 - A Bowl INC
+* Market Researcher: Sep. 2020 - Feb.2021 - C-LOOP TEC. (Beijing, Remote Office Work)
+* Operation Supervisor: Mar. - Feb. 2021 - A Bowl INC
 * Marketing Intern: Nov. 2017 - Nov. 2018 - Jay Tea House INC
 * Operation Intern : Nov. 2017 - Nov. 2018 - Tasty Noodle House INC (San Diego Branch)
 
